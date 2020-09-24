@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace myprint
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("HELLO");
+            Console.WriteLine(3550);
+             
+        }
+    }
+}
